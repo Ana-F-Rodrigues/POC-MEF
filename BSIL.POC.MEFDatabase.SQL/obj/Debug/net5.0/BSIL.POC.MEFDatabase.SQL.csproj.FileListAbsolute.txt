@@ -1,0 +1,15 @@
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.SQL\obj\Debug\net5.0\BSIL.POC.MEFDatabase.SQL.csproj.AssemblyReference.cache
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.SQL\obj\Debug\net5.0\BSIL.POC.MEFDatabase.SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.SQL\obj\Debug\net5.0\BSIL.POC.MEFDatabase.SQL.AssemblyInfoInputs.cache
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.SQL\obj\Debug\net5.0\BSIL.POC.MEFDatabase.SQL.AssemblyInfo.cs
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.SQL\obj\Debug\net5.0\BSIL.POC.MEFDatabase.SQL.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.SQL\bin\Debug\net5.0\BSIL.POC.MEFDatabase.SQL.deps.json
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.SQL\bin\Debug\net5.0\BSIL.POC.MEFDatabase.SQL.dll
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.SQL\bin\Debug\net5.0\ref\BSIL.POC.MEFDatabase.SQL.dll
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.SQL\bin\Debug\net5.0\BSIL.POC.MEFDatabase.SQL.pdb
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.SQL\bin\Debug\net5.0\BSIL.POC.MEFDatabase.dll
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.SQL\bin\Debug\net5.0\BSIL.POC.MEFDatabase.pdb
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.SQL\obj\Debug\net5.0\BSIL.POC.MEFDatabase.SQL.csproj.CopyComplete
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.SQL\obj\Debug\net5.0\BSIL.POC.MEFDatabase.SQL.dll
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.SQL\obj\Debug\net5.0\ref\BSIL.POC.MEFDatabase.SQL.dll
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.SQL\obj\Debug\net5.0\BSIL.POC.MEFDatabase.SQL.pdb

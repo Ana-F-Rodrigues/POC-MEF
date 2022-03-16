@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BSIL.POC.MEFDatabase/1.0.0": {
+        "runtime": {
+          "BSIL.POC.MEFDatabase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BSIL.POC.MEFDatabase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

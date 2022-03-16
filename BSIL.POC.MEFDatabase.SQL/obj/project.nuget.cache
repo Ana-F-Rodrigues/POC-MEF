@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sQsETzfh1vYcOVE05ShNYiXaM6OaTsUEhAcrHr9DtpoH2zuykgT6CLJlCTvCFVNk6P//kLP/y+X153YYKmjbtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ana\\Desktop\\PLANO 2022\\BSIL.POC.MEFDatabase\\BSIL.POC.MEFDatabase.SQL\\BSIL.POC.MEFDatabase.SQL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana\\.nuget\\packages\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ana\\.nuget\\packages\\system.composition.attributedmodel\\6.0.0\\system.composition.attributedmodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ana\\.nuget\\packages\\system.composition.convention\\6.0.0\\system.composition.convention.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ana\\.nuget\\packages\\system.composition.hosting\\6.0.0\\system.composition.hosting.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ana\\.nuget\\packages\\system.composition.runtime\\6.0.0\\system.composition.runtime.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ana\\.nuget\\packages\\system.composition.typedparts\\6.0.0\\system.composition.typedparts.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.Oracle\bin\Debug\net5.0\BSIL.POC.MEFDatabase.Oracle.deps.json
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.Oracle\bin\Debug\net5.0\BSIL.POC.MEFDatabase.Oracle.dll
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.Oracle\bin\Debug\net5.0\ref\BSIL.POC.MEFDatabase.Oracle.dll
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.Oracle\bin\Debug\net5.0\BSIL.POC.MEFDatabase.Oracle.pdb
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.Oracle\bin\Debug\net5.0\BSIL.POC.MEFDatabase.dll
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.Oracle\bin\Debug\net5.0\BSIL.POC.MEFDatabase.pdb
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.Oracle\obj\Debug\net5.0\BSIL.POC.MEFDatabase.Oracle.csproj.AssemblyReference.cache
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.Oracle\obj\Debug\net5.0\BSIL.POC.MEFDatabase.Oracle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.Oracle\obj\Debug\net5.0\BSIL.POC.MEFDatabase.Oracle.AssemblyInfoInputs.cache
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.Oracle\obj\Debug\net5.0\BSIL.POC.MEFDatabase.Oracle.AssemblyInfo.cs
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.Oracle\obj\Debug\net5.0\BSIL.POC.MEFDatabase.Oracle.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.Oracle\obj\Debug\net5.0\BSIL.POC.MEFDatabase.Oracle.csproj.CopyComplete
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.Oracle\obj\Debug\net5.0\BSIL.POC.MEFDatabase.Oracle.dll
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.Oracle\obj\Debug\net5.0\ref\BSIL.POC.MEFDatabase.Oracle.dll
+C:\Users\Ana\Desktop\PLANO 2022\BSIL.POC.MEFDatabase\BSIL.POC.MEFDatabase.Oracle\obj\Debug\net5.0\BSIL.POC.MEFDatabase.Oracle.pdb
